@@ -8,7 +8,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
 
   return (
     <Layout
-      title="Welcome to Loomto.com"
+      title="power-parity-pricing"
       path="edge-functions/power-parity-pricing"
     >
       <Component {...pageProps} />
